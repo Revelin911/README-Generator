@@ -1,9 +1,9 @@
 
 ![badge](https://img.shields.io/badge/LICENSE-MIT-blue)
-# sdf
+# Sample File
 
 ## Description
-dfgfg
+This is a sample file. This generates files and is meant to save some time.
 
 ## Table of Contents
 
@@ -13,16 +13,16 @@ dfgfg
 - [License](#license)
 
 ## Installation
-23432
+Pre installed VS code. Open VS Code and open a command terminal in VS Code.
 
 ## Usage
-ghjyjh
+Once terminal is open type in "node index.js" and press enter key. A terminal opens and you may begin responding prompts.
 
 ## Contributing
-kuiklui
+Yes, I can add codes to the repo.
 
 ## Tests
-6757 
+Tests are linked below. 
 
 ## License
 MIT //add text where license is coming from
@@ -30,6 +30,6 @@ MIT //add text where license is coming from
 ## Questions
 For any questions, please reference the information below:
 - Github:
-[uikuy](https://github.com/uikuy)
+[sample@github.com](https://github.com/sample@github.com)
 - Email:
-rtht
+sample@outlook.com

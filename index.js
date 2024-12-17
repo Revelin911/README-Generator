@@ -84,7 +84,7 @@ ${answers.contributions}
 ${answers.tests} 
 
 ## License
-${answers.license} //add text where license is coming from
+${answers.license} 
 
 ## Questions
 For any questions, please reference the information below:
