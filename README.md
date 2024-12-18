@@ -16,10 +16,13 @@ This README generator is meant facilitate users in creating README files. By bui
 In order for this generator to run you will need to have VS Code downloaded to your computer. Create index.js, README.md files in VS Code. In the root of your folder you will need to open a terminal and install 'inquirer' and 'fs' packages for node.js. 
 
 ## Usage
-Once installed, you can run "node index.js" in the terminal and prompts witrh questions will appear. Respond each question and when it is completed, a new README file will be generated. 
+Once installed, you can run "node index.js" in the terminal and prompts with questions will appear. 
 
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/Terminal%20Content.png)
+
+Respond each question and when it is completed, a new README file will be generated. 
+
+![alt text](assets/images/Preview.png)
 
 ## Credits
 
