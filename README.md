@@ -38,4 +38,5 @@ MIT License
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Video demo of how to run -
+![alt text](https://drive.google.com/file/d/1ipF5pmfM0dG16eTPTwgJnzxAd7MYqJs6/view?usp=sharing)
