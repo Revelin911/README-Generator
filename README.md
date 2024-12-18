@@ -39,4 +39,4 @@ MIT License
 ## Tests
 
 Video demo of how to run -
-![alt text](https://drive.google.com/file/d/1ipF5pmfM0dG16eTPTwgJnzxAd7MYqJs6/view?usp=sharing)
+[Walkthrough](https://drive.google.com/file/d/1ipF5pmfM0dG16eTPTwgJnzxAd7MYqJs6/view?usp=sharing)
